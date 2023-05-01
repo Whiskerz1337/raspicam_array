@@ -1,4 +1,5 @@
-# truck_cams
-Automatic truck pic capture and upload for work.
+# Raspicam Array
 
-Readme - TODO
+This is an automated image camera array system, triggered by webhooks. Images are uploaded to a newly created Google Drive folder.
+
+
